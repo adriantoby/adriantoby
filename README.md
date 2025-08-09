@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Adrian
 ## About Me
-I'm a second year Computer Science major at the University of Florida. In my free time, I love to journal about my day and have been journaling for nearly 7 years. I also love music, with my favorite instrument to play being the guitar. I love teaching others about programming and would love to learn new tools I can learn and master! I am interested in full stack development using tools like HTML, CSS, JavaScript, and am looking forward to learning new tools like React.
+I'm a third year Computer Science major at the University of Florida. In my free time, I love to journal about my day and have been journaling for nearly 7 years. I also love music, with my favorite instrument to play being the guitar. I love teaching others about programming and would love to learn new tools I can learn and master! I am interested in full stack development using tools like HTML, CSS, JavaScript, and am looking forward to learning new tools like React.
 <!--
 **adriantoby/adriantoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
